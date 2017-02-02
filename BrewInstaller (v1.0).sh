@@ -6,7 +6,7 @@
 #                          ver 1.0
 #
 #
-#   LICENSE: https://opensource.org/licenses/BSD-2-Clause
+#   LICENSE: https://github.com/DemonX86/BrewInstaller/blob/master/LICENSE
 #
 
 if [ -a /usr/local/bin/brew ];then
